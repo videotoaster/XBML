@@ -20,5 +20,5 @@ Horizontal line.
 ## `bq`
 > Blockquote.
 Should have an attribute to set block color.
-## `style`
+## `style` <small>(optional)</small>
 CSS.
